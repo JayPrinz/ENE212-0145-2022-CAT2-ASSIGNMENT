@@ -1,0 +1,200 @@
+div#container
+{
+   width: 900px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   background-image: url('images/Easy-Beef-Stew-with-Rice-3-4-034-1.jpg');
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: repeat-y;
+   background-size: cover;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Label1
+{
+   border: 0px solid #CCCCCC;
+   border-radius: 0px;
+   background-color: transparent;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: "Lato Black";
+   font-weight: bold;
+   font-style: normal;
+   font-size: 19px;
+   margin: 0;
+   text-align: center;
+   vertical-align: top;
+   padding: 4px 4px 4px 4px;
+}
+#Label1:focus
+{
+   outline: 0;
+}
+#Layer1
+{
+   background-color: rgba(0,0,0,0.60);
+   background-image: none;
+   border-radius: 10px;
+}
+#Signup1
+{
+   background-color: rgba(255,255,255,0.00);
+   border: 0px solid #FFFFFF;
+   border-radius: 4px;
+   color: #FFFFFF;
+   font-family: "Lato Black";
+   font-weight: normal;
+   font-size: 17px;
+   font-style: normal;
+   text-align: left;
+   border-spacing: 6px;
+   width: 354px;
+   height: 433px;
+}
+#Signup1 td
+{
+   padding: 0;
+}
+#Signup1 .header
+{
+   background-color: rgba(135,135,135,0.00);
+   color: #000000;
+   height: 0px;
+   padding: 4px 4px 4px 4px;
+   text-align: center;
+}
+#Signup1 .label
+{
+   height: 21px;
+}
+#Signup1 .row
+{
+   height: 35px;
+   text-align: left;
+}
+#Signup1 .input
+{
+   background-color: rgba(255,255,255,0.40);
+   border: 1px solid rgba(255,255,255,0.60);
+   border-radius: 3px;
+   color: #FFFFFF;
+   font-family: "Lato Black";
+   font-weight: normal;
+   font-size: 17px;
+   font-style: normal;
+   width: 100%;
+   height: 35px;
+   box-sizing: border-box;
+   padding: 6px 4px 6px 4px;
+}
+#Signup1 .input:focus
+{
+   border-color: #66AFE9;
+   outline: 0;
+   box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075), 0px 0px 8px rgba(102,175,233,0.60);
+}
+#Signup1 .button
+{
+   background-color: #0000CD;
+   border: 1px solid #0000CD;
+   border-radius: 3px;
+   color: #FFFFFF;
+   font-family: "Lato Black";
+   font-weight: normal;
+   font-size: 17px;
+   font-style: normal;
+   padding: 4px 14px 4px 14px;
+   -webkit-appearance: none;
+}
+#Label2
+{
+   border: 0px solid #CCCCCC;
+   border-radius: 4px;
+   background-color: transparent;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: Lato;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 13px;
+   margin: 0;
+   text-align: left;
+   vertical-align: top;
+   padding: 4px 4px 4px 4px;
+}
+#Label2:focus
+{
+   outline: 0;
+}
+#Button1
+{
+   box-sizing: border-box;
+   line-height: 31px;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #0000CD;
+   border-radius: 5px;
+   background-color: #0000CD;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: "Lato Black";
+   font-weight: bold;
+   font-style: normal;
+   font-size: 17px;
+   padding: 1px 6px 1px 6px;
+   text-align: center;
+   -webkit-appearance: none;
+   margin: 0;
+}
+}
+#Button1:focus
+{
+   outline: 0;
+}
+#Layer2
+{
+   background-color: rgba(120,75,40,0.78);
+   background-image: none;
+   border-radius: 0px;
+   box-shadow: 5px 5px 50px #000000;
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: left;
+}
